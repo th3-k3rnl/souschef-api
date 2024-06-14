@@ -1,0 +1,10 @@
+# Web API Framework
+fastapi == 0.111.0
+# WSGI server
+gunicorn == 22.0.0
+#ASGI Server
+uvicorn == 0.30.1
+# MySQL Driver
+mysql-connector-python == 9.0.0
+# Environment
+python-dotenv
